@@ -167,3 +167,4 @@ Your screen should like something like this:</p>
 <li><p>(<strong>Maintainer</strong>) Go back to see if changes have been made to the pull request. Seeing that there are, review the changes and verify that they work as advertised. (If not, send a message explaining the errors encountered.) Once you have verified the article functionality has complete CRUD functionality, you can now merge these changes into your master branch by pushing the green Merge pull request button (that we crossed out in an earlier screenshot).</p></li>
 <li><p>Have the TA check off that you have a project in your github account with article functionality and a record of the dialog back and forth between you and the requester AND that you have been a requester of another student who also has a revised repository – if so, you're done!</p></li>
 </ol>
+# lexierodriguez_world
